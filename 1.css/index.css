@@ -15,5 +15,9 @@ h1.title{
     color: var(--color-background1);
 }
 .link-button{
-
+    font-size:1em;
+    display:inline-block;
+    cursor:pointer;
+    text-decoration:none;
+    
 }
