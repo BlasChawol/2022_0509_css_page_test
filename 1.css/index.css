@@ -3,7 +3,7 @@
     --color-background2:dimgray;
 }
 body{
-    background: var(--color-background2);
+    background: rgb(255 255 255);
     min-height: 100vh;
     display: grid;
     place-items: center;
